@@ -196,39 +196,6 @@ The project includes `sample_equipment_data.csv` with 20 equipment entries for t
 ---
 
 
-## 🎓 Learning Resources
 
-- **Django**: https://docs.djangoproject.com/
-- **Django REST Framework**: https://www.django-rest-framework.org/
-- **React**: https://react.dev/
-- **PyQt5**: https://www.riverbankcomputing.com/static/Docs/PyQt5/
-- **Pandas**: https://pandas.pydata.org/docs/
-- **Chart.js**: https://www.chartjs.org/
-- **Matplotlib**: https://matplotlib.org/
 
----
 
-## 📝 License
-
-This project is created for educational purposes as part of an internship screening task.
-
----
-
-## 👤 Author
-
-**Aditi Mishra**
-- GitHub: [@Aditi-1413](https://github.com/Aditi-1413)
-- Email: aditi.040613@gmail.com
-
----
-
-## 🙏 Acknowledgments
-
-- Sample data generated for demonstration purposes
-- Built with modern web and desktop technologies
-- Designed for chemical engineering applications
-
----
-
-**Happy Coding! 🚀**
-=======
